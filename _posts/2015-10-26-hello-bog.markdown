@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to Blog!"
+date:   2015-10-26 13:13:32
+categories: 其他
+---
+一直以来都想搞个blog，很长时间都没有搞，现在下决心搞起来
