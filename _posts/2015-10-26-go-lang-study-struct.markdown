@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "golang ssstudy struct"
+title:  "golang study struct"
 date:   2015-10-27 12:48:32
 categories: golang
 ---
